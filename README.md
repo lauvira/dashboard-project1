@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 3. Jalankan aplikasi Streamlit :
 ```
-streamlit run project1.py
+streamlit run Project_1.py
 ```
 
 ## Cara Menjalankan Aplikasi Secara Lokal
