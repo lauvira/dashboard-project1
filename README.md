@@ -12,13 +12,16 @@ Sebelum menjalankan dashboard, pastikan Anda telah menginstall:
 1. Clone repository : 
 ```
 git clone https://github.com/lauvira/dashboard-project1-lauren.git
+```
+2. Buka folder repository : 
+```
 cd dashboard-project1-lauren
 ```
-2. Install library :
+3 Install library :
 ```
 pip install -r requirements.txt
 ```
-3. Jalankan aplikasi Streamlit :
+4. Jalankan aplikasi Streamlit :
 ```
 streamlit run dashboard.py
 ```
