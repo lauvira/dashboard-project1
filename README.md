@@ -11,7 +11,7 @@ Sebelum menjalankan dashboard, pastikan Anda telah menginstall:
 ## Cara Menjalankan Aplikasi Secara Lokal
 1. Clone repository : 
 ```
-git clone https://github.com/lauvira/dashboard-project1.git
+git clone https://github.com/lauvira/dashboard-project1-lauren.git
 cd dashboard-project1
 ```
 2. Install library :
@@ -20,8 +20,8 @@ pip install -r requirements.txt
 ```
 3. Jalankan aplikasi Streamlit :
 ```
-streamlit run Project1.py
+streamlit run dashboard.py
 ```
 
-## Cara Menjalankan Aplikasi Secara Lokal
-Akses URL berikut : https://dashboard-project1-laurensia.streamlit.app/ 
+## Cara Mengakses Dashboard Secara Langsung
+Akses URL berikut : https://dashboard-project1-lauren-run.streamlit.app/ 
