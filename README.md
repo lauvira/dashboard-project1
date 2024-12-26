@@ -1,4 +1,4 @@
-# How to Run Dashboard "My First Data Analysis" 
+# How to Run Dashboard "E-Commerce Dashboard" 
 Ini adalah proyek pertama saya dalam program Bangkit 2024.
 Terdapat beberapa fitur yang saya gunakan, seperti Tabs dan Chart. 
 
