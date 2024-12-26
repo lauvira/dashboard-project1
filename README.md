@@ -12,6 +12,7 @@ Sebelum menjalankan dashboard, pastikan Anda telah menginstall:
 1. Clone repository : 
 ```
 git clone https://github.com/lauvira/dashboard-project1-lauren.git
+cd dashboard-project1-lauren
 ```
 2. Install library :
 ```
